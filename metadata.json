@@ -1,0 +1,6 @@
+
+{
+  "name": "Chrono Cadeaux de Noël",
+  "description": "Une application statique festive qui fait défiler des noms toutes les 3 minutes avec un historique des passages.",
+  "requestFramePermissions": []
+}
